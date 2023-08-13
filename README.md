@@ -23,7 +23,7 @@ You will also need API keys for Deepgram and OpenAI.
 Clone the repository to your local machine.
 
 ---
-```
+
 
 ## Anvil Best Practices
 
